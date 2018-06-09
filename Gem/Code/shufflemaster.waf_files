@@ -1,0 +1,18 @@
+{
+    "none": {
+        "Source": [
+            "Source/ShuffleMaster_precompiled.cpp",
+            "Source/ShuffleMaster_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/ShuffleMaster/ShuffleMasterBus.h"
+        ],
+        "Source": [
+            "Source/ShuffleMasterModule.cpp",
+            "Source/ShuffleMasterSystemComponent.cpp",
+            "Source/ShuffleMasterSystemComponent.h"
+        ]
+    }
+}

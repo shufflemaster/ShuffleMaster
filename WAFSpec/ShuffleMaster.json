@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for ShuffleMaster",
+    "visual_studio_name": "ShuffleMaster",
+    "comment" : "",
+    "game_projects" : "ShuffleMaster",
+
+    "modules" : [
+    ]
+}
